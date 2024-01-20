@@ -1,6 +1,6 @@
 # Number Guessing Game
 
-A simple number guessing game implemented using HTML, CSS, and JavaScript.
+A simple number-guessing game implemented using HTML, CSS, and JavaScript.
 
 ## Table of Contents
 
@@ -19,7 +19,7 @@ The Number Guessing Game is a web-based application where the player tries to gu
 - Randomly generated secret number between 1 and 20.
 - User input for guessing the number.
 - Feedback messages based on the correctness of the guess.
-- Score tracking with a highscore feature.
+- Score tracking with a high score feature.
 - Responsive design for a pleasant user experience.
 
 
@@ -28,4 +28,4 @@ The Number Guessing Game is a web-based application where the player tries to gu
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/number-guessing-game.git
+   git clone https://jagathvm.github.io/guess-my-number/
