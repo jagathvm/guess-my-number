@@ -32,4 +32,6 @@ The Number Guessing Game is a web-based application where the player tries to gu
    git clone https://jagathvm.github.io/guess-my-number/
 
 
+## Website
+
 Check out this page : https://jagathvm.github.io/guess-my-number/
