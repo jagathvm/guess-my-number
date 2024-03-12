@@ -7,6 +7,7 @@ A simple number-guessing game implemented using HTML, CSS, and JavaScript.
 - [Description](#description)
 - [Features](#features)
 - [Installation](#installation)
+- [Website](#website)
 
 
 ## Description
@@ -29,3 +30,6 @@ The Number Guessing Game is a web-based application where the player tries to gu
 
    ```bash
    git clone https://jagathvm.github.io/guess-my-number/
+
+
+Check out this page : https://jagathvm.github.io/guess-my-number/
